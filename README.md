@@ -1,3 +1,3 @@
 #TipCalculator
 
-![alt text](http://imgur.com/a/XRtGt "TipCalculator")
+![alt text](http://i.imgur.com/dLDlaTX.gif "TipCalculator")
