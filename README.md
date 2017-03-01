@@ -1,4 +1,4 @@
-# Project 1 - *Tip Calculator*
+# *Tip Calculator*
 
 **Tip Calculator** is a tip calculator application for iOS.
 
